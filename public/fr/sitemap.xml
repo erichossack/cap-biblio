@@ -26,6 +26,18 @@
                 href="http://localhost:1313/fr/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/donate/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/donate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/donate/"
+                />
+  </url><url>
     <loc>http://localhost:1313/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"

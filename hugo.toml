@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
+languageCode = 'fr'
 title = 'CAP Biblio'
-theme = 'hugo-universal-theme'
+theme = 'ananke'
 [languages]
   [languages.en]
     contentDir = 'content/english'
@@ -12,7 +12,4 @@ theme = 'hugo-universal-theme'
     languageName = 'Français'
     weight = 20
 [params]
-    disabled_logo = false
-    logo_text = "CAP Biblio"
-
-    logo = "img/Logo.jpg"
+    site_logo = "img/logo_small.jpg"
