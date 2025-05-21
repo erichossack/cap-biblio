@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'fr'
 title = 'CAP Biblio'
 theme = 'ananke'
+defaultContentLanguage = "fr"
 [languages]
   [languages.en]
     contentDir = 'content/english'
