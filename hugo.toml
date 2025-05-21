@@ -15,3 +15,6 @@ theme = 'ananke'
     site_logo = "img/logo_small.jpg"
 [markup.goldmark.renderer]
     unsafe = true
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
