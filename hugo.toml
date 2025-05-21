@@ -13,3 +13,5 @@ theme = 'ananke'
     weight = 20
 [params]
     site_logo = "img/logo_small.jpg"
+[markup.goldmark.renderer]
+    unsafe = true

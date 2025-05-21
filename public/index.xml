@@ -12,7 +12,7 @@
       <link>http://localhost:1313/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/donate/</guid>
-      <description>&lt;h1 id=&#34;fundraising&#34;&gt;Fundraising&lt;/h1&gt;&#xA;&lt;p&gt;We are looking to partner with Eglise Baptiste De Bayeux as they construct a new sanctuary. We will be funding an archive to store our bibles and historical artifacts. We hope you will be interested in partnering with us in this endeavor by helping to fund construction of the archive room.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;p&gt;We are looking to partner with Eglise Baptiste De Bayeux as they construct a new sanctuary. We will be funding an archive to store our bibles and historical artifacts. We hope you will be interested in partnering with us in this endeavor by helping to fund construction of the archive room.&lt;/p&gt;&#xA;&lt;iframe style=&#34;width: 350px; border: none;&#34; data-responsive=&#34;false&#34; id=&#34;haWidget&#34; allowtransparency=&#34;true&#34; src=&#34;https://www.helloasso.com/associations/cap-biblio/collectes/un-scriptorial-pour-cap-biblio-entreposer-nos-livres-et-artefacts-d-exposition/widget-compteur&#34; onload=&#34;window.addEventListener( &#39;message&#39;, e =&amp;gt; { const dataHeight = e.data.height const haWidgetElement = document.getElementById(&#39;haWidget&#39;) haWidgetElement.height = dataHeight + &#39;px&#39; } )&#34;&gt;&lt;/iframe&gt;</description>
     </item>
   </channel>
 </rss>
