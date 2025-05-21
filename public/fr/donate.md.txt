@@ -1,9 +1,0 @@
-+++
-menus = 'main'
-title = 'Collecte de fonds'
-featured_image = '/img/church_building_expo.JPG'
-+++
-
-# Collecte de fonds
-
-Nous cherchons à collaborer avec l'Église Baptiste de Bayeux pour la construction d'un nouveau sanctuaire. Nous financerons des archives pour conserver nos bibles et nos objets historiques. Nous espérons que vous serez intéressés par un partenariat avec nous dans ce projet en contribuant au financement de la construction de la salle d'archives.
